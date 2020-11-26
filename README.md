@@ -5,7 +5,7 @@
 
 ![sql1](https://user-images.githubusercontent.com/74858814/100381009-4df23780-3018-11eb-9695-f2a78dfad4a5.PNG)
 
-##code
+## code
 
 ![AJUIO](https://user-images.githubusercontent.com/74858814/100381338-16d05600-3019-11eb-885a-30d9593206e2.PNG)
 
